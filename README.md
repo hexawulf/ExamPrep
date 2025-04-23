@@ -1,4 +1,4 @@
-This contains a set of very basic exercises useful for first learners of the Java Programming Language.
+This repository contains 6 sets of 20 very basic exercises, helpful for beginners learning the Java Programming Language.
 
 Generated with the prompt:
 Updated Prompt:
@@ -10,7 +10,7 @@ Exercise design rules
 
 One topic each. Every exercise must centre on a single Java construct or introductory OOP idea that the course book covers (e.g., fields, methods, for loops, if‑else, constructors, access modifiers, inheritance, encapsulation, polymorphism).
 
-Course‑book alignment. Cite the chapter / section (or page) where the concept is introduced, so students can revisit the explanation.
+Course‑book alignment. Cite the chapter/section (or page) where the concept is introduced, so students can revisit the explanation.
 
 Beginner level. Keep syntax and logic simple enough for someone who has finished only the first‑semester syllabus. Avoid compound features (e.g., no generics + inheritance in the same task).
 
@@ -22,7 +22,7 @@ Target concept blurb. End each exercise with a one‑sentence note that names th
 
 No answers. Do not supply solutions or hints.
 
-Batch Gemini 2.5_2 
+Example = Batch Gemini 2.5_2 
 # First-Semester OOP Exam Practice Exercises
 
 Based on the "Object-Oriented Programming With Java" Course Book (DLBCSOOPJ01)
