@@ -9,8 +9,8 @@ public class Q15
 
 	public static void main(String[] args)
 	{
-		System.out.println("Package: " + org.hexawulf.animals.Dog.class.getPackage().getName());
-		System.out.println("Class: " + org.hexawulf.animals.Dog.class.getSimpleName());
+		System.out.println("Package: " + dev.hexawulf.animals.Dog.class.getPackage().getName());
+		System.out.println("Class: " + dev.hexawulf.animals.Dog.class.getSimpleName());
 
 	}
 

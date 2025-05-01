@@ -10,7 +10,7 @@ public class Q16
 
 	public static void main(String[] args)
 	{
-		org.hexawulf.animals.Dog doggie = new org.hexawulf.animals.Dog("Wulfie", 3);
+		dev.hexawulf.animals.Dog doggie = new dev.hexawulf.animals.Dog("Wulfie", 3);
 		System.out.println(doggie.name);
 	}
 

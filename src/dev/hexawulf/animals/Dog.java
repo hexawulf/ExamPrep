@@ -1,4 +1,4 @@
-package org.hexawulf.animals;
+package dev.hexawulf.animals;
 
 public class Dog
 
